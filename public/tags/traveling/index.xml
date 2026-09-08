@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traveling | Nahida Akther Reshmi</title>
+    <link>http://localhost:60271/tags/traveling/</link>
+      <atom:link href="http://localhost:60271/tags/traveling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Traveling</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60271/media/icon_hu7729264130191091259.png</url>
+      <title>Traveling</title>
+      <link>http://localhost:60271/tags/traveling/</link>
+    </image>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:60271/project/survey_form/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60271/project/survey_form/</guid>
+      <description>&lt;p&gt;A user-friendly survey form project created with HTML and CSS, designed to gather feedback and preferences on traveling experiences.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
+&lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
+Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com/reshmi-29/Free_Code_Camp/blob/main/Survey_Form.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey Form&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Run on CodePen&lt;/strong&gt;&lt;br&gt;
+See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/NWQVdKo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Survey Form&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Enjoy exploring the project in the way that suits you best!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

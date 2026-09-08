@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Structures | Nahida Akther Reshmi</title>
+    <link>http://localhost:60271/tags/data-structures/</link>
+      <atom:link href="http://localhost:60271/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Structures</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60271/media/icon_hu7729264130191091259.png</url>
+      <title>Data Structures</title>
+      <link>http://localhost:60271/tags/data-structures/</link>
+    </image>
+    
+    <item>
+      <title>Technical Documentation</title>
+      <link>http://localhost:60271/project/technical_documentation_page/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60271/project/technical_documentation_page/</guid>
+      <description>&lt;p&gt;A comprehensive technical documentation page built with HTML and CSS, covering the fundamentals and concepts of data structures and algorithms.&lt;/p&gt;
+&lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/reshmi-29/Free_Code_Camp/tree/main/Technical_Documentation_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/strong&gt;: Access the source code.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://codepen.io/Nahida-Akther-Reshmi/full/RwXBeKr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodePen Demo&lt;/a&gt;&lt;/strong&gt;: See it in action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Enjoy exploring the project!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
