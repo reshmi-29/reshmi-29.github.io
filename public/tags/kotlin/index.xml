@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kotlin | Nahida Akther Reshmi</title>
-    <link>https://example.com/tags/kotlin/</link>
-      <atom:link href="https://example.com/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55555/tags/kotlin/</link>
+      <atom:link href="http://localhost:55555/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
     <description>Kotlin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55555/media/icon_hu7729264130191091259.png</url>
       <title>Kotlin</title>
-      <link>https://example.com/tags/kotlin/</link>
+      <link>http://localhost:55555/tags/kotlin/</link>
     </image>
     
     <item>
       <title>TravelQuest</title>
-      <link>https://example.com/project/travelquest/</link>
+      <link>http://localhost:55555/project/travelquest/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/travelquest/</guid>
+      <guid>http://localhost:55555/project/travelquest/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Built an AI-assisted travel companion app for itinerary generation, budget estimation, and destination discovery, along with a social feed for sharing travel experiences.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -28,9 +28,9 @@
     
     <item>
       <title>Daily Expense Tracker</title>
-      <link>https://example.com/project/daily-expense-tracker/</link>
+      <link>http://localhost:55555/project/daily-expense-tracker/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/daily-expense-tracker/</guid>
+      <guid>http://localhost:55555/project/daily-expense-tracker/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Developed an Android expense-tracking app for recording, editing, and deleting daily expenses, with local data persistence and monthly spending visualization.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;

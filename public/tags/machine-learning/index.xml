@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Nahida Akther Reshmi</title>
-    <link>https://example.com/tags/machine-learning/</link>
-      <atom:link href="https://example.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55555/tags/machine-learning/</link>
+      <atom:link href="http://localhost:55555/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55555/media/icon_hu7729264130191091259.png</url>
       <title>Machine Learning</title>
-      <link>https://example.com/tags/machine-learning/</link>
+      <link>http://localhost:55555/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>Fake-Review-Detection</title>
-      <link>https://example.com/project/fake-review-detection/</link>
+      <link>http://localhost:55555/project/fake-review-detection/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/fake-review-detection/</guid>
+      <guid>http://localhost:55555/project/fake-review-detection/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Developed an explainable ML system for detecting fake product reviews using TF-IDF and review metadata, with optimized ensemble classifiers and SHAP/LIME-based model interpretability.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;

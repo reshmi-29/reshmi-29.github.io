@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Nahida Akther Reshmi</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:55555/project/</link>
+      <atom:link href="http://localhost:55555/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:55555/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>http://localhost:55555/project/</link>
     </image>
     
     <item>
       <title>Multi-Hop XAI</title>
-      <link>https://example.com/project/multi-hop-xai/</link>
+      <link>http://localhost:55555/project/multi-hop-xai/</link>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/multi-hop-xai/</guid>
+      <guid>http://localhost:55555/project/multi-hop-xai/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Designed a four-layer conceptual framework for multi-hop explainable AI in clinical decision support and implemented it as System C — a 3-hop reasoning pipeline for identification, confirmation, and management.&lt;/p&gt;
 &lt;p&gt;The system was verified against a guideline knowledge base spanning six clinical conditions, achieving 91% guideline-consistency verification, 100% rejection of out-of-scope cases, and 100% discrimination on a controlled ground-truth test across 56 real clinical notes. Its reliability was also validated through a 36-rater human evaluation focused on clarity and trust.&lt;/p&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>Fake-Review-Detection</title>
-      <link>https://example.com/project/fake-review-detection/</link>
+      <link>http://localhost:55555/project/fake-review-detection/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/fake-review-detection/</guid>
+      <guid>http://localhost:55555/project/fake-review-detection/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Developed an explainable ML system for detecting fake product reviews using TF-IDF and review metadata, with optimized ensemble classifiers and SHAP/LIME-based model interpretability.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>TravelQuest</title>
-      <link>https://example.com/project/travelquest/</link>
+      <link>http://localhost:55555/project/travelquest/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/travelquest/</guid>
+      <guid>http://localhost:55555/project/travelquest/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Built an AI-assisted travel companion app for itinerary generation, budget estimation, and destination discovery, along with a social feed for sharing travel experiences.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>Art-Gallery</title>
-      <link>https://example.com/project/art-gallery/</link>
+      <link>http://localhost:55555/project/art-gallery/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/art-gallery/</guid>
+      <guid>http://localhost:55555/project/art-gallery/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Developed a full-featured art e-commerce platform with role-based access for buyers, sellers, and administrators. The system includes artwork listing and approval workflows, cart-to-checkout order processing, and review, messaging, and notification functionality.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>Daily Expense Tracker</title>
-      <link>https://example.com/project/daily-expense-tracker/</link>
+      <link>http://localhost:55555/project/daily-expense-tracker/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/daily-expense-tracker/</guid>
+      <guid>http://localhost:55555/project/daily-expense-tracker/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Developed an Android expense-tracking app for recording, editing, and deleting daily expenses, with local data persistence and monthly spending visualization.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
@@ -85,9 +85,9 @@
     
     <item>
       <title>Tribute Page</title>
-      <link>https://example.com/project/tribute-page/</link>
+      <link>http://localhost:55555/project/tribute-page/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/tribute-page/</guid>
+      <guid>http://localhost:55555/project/tribute-page/</guid>
       <description>&lt;p&gt;A heartfelt tribute page built with HTML and CSS, dedicated to Prophet Hazrat Muhammad (SAW), highlighting his life and teachings.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
@@ -107,9 +107,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Tic-Tac-Toe</title>
-      <link>https://example.com/project/tic-tac-toe/</link>
+      <link>http://localhost:55555/project/tic-tac-toe/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/tic-tac-toe/</guid>
+      <guid>http://localhost:55555/project/tic-tac-toe/</guid>
       <description>&lt;p&gt;An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript, providing a fun and engaging way to play the classic game.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
@@ -129,9 +129,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Technical Documentation</title>
-      <link>https://example.com/project/technical_documentation_page/</link>
+      <link>http://localhost:55555/project/technical_documentation_page/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/technical_documentation_page/</guid>
+      <guid>http://localhost:55555/project/technical_documentation_page/</guid>
       <description>&lt;p&gt;A comprehensive technical documentation page built with HTML and CSS, covering the fundamentals and concepts of data structures and algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;ul&gt;
@@ -144,9 +144,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Interactive Digital Journal</title>
-      <link>https://example.com/project/interactive-digital-journal/</link>
+      <link>http://localhost:55555/project/interactive-digital-journal/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/interactive-digital-journal/</guid>
+      <guid>http://localhost:55555/project/interactive-digital-journal/</guid>
       <description>&lt;p&gt;An innovative Java project for creating and managing a personal journal, designed for simplicity and interactivity.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
@@ -157,9 +157,9 @@ Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com
     
     <item>
       <title>Personal Expenses and Savings</title>
-      <link>https://example.com/project/personal-expenses-and-savings/</link>
+      <link>http://localhost:55555/project/personal-expenses-and-savings/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/personal-expenses-and-savings/</guid>
+      <guid>http://localhost:55555/project/personal-expenses-and-savings/</guid>
       <description>&lt;p&gt;A comprehensive C++ project designed for tracking personal expenses and savings, helping users manage their finances effectively.&lt;/p&gt;
 &lt;h2 id=&#34;explore-the-project&#34;&gt;Explore the Project&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;View on GitHub&lt;/strong&gt;&lt;br&gt;
@@ -170,9 +170,9 @@ Check out the source code and more on GitHub: &lt;a href=&#34;https://github.com
     
     <item>
       <title>Product Landing Page</title>
-      <link>https://example.com/project/product_landing_page/</link>
+      <link>http://localhost:55555/project/product_landing_page/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/product_landing_page/</guid>
+      <guid>http://localhost:55555/project/product_landing_page/</guid>
       <description>&lt;p&gt;An engaging HTML and CSS project focused on showcasing travel photography in a captivating product landing page design.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
@@ -192,9 +192,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Survey Form</title>
-      <link>https://example.com/project/survey_form/</link>
+      <link>http://localhost:55555/project/survey_form/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/survey_form/</guid>
+      <guid>http://localhost:55555/project/survey_form/</guid>
       <description>&lt;p&gt;A user-friendly survey form project created with HTML and CSS, designed to gather feedback and preferences on traveling experiences.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
