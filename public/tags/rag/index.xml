@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RAG | Nahida Akther Reshmi</title>
+    <link>https://example.com/tags/rag/</link>
+      <atom:link href="https://example.com/tags/rag/index.xml" rel="self" type="application/rss+xml" />
+    <description>RAG</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>RAG</title>
+      <link>https://example.com/tags/rag/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Hop XAI</title>
+      <link>https://example.com/project/multi-hop-xai/</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/multi-hop-xai/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Designed a four-layer conceptual framework for multi-hop explainable AI in clinical decision support and implemented it as System C — a 3-hop reasoning pipeline for identification, confirmation, and management.&lt;/p&gt;
+&lt;p&gt;The system was verified against a guideline knowledge base spanning six clinical conditions, achieving 91% guideline-consistency verification, 100% rejection of out-of-scope cases, and 100% discrimination on a controlled ground-truth test across 56 real clinical notes. Its reliability was also validated through a 36-rater human evaluation focused on clarity and trust.&lt;/p&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;p&gt;Python, LLM-based reasoning and verification, ChromaDB, Sentence-Transformers, RAG pipeline design&lt;/p&gt;
+&lt;h2 id=&#34;project-link&#34;&gt;Project Link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/reshmi-29/Multi-Hop-Explainable-AI-for-Clinical-Decision-Support&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

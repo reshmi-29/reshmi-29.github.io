@@ -60,4 +60,96 @@
   html:not(.dark) .grid ul {
     font-weight: 600 !important;
   }
+
+  .blox-resume-skills {
+    padding-top: 4rem;
+  }
+
+  .blox-resume-skills .flex.flex-col.lg\:flex-row {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    max-width: 1100px;
+    align-items: stretch;
+  }
+
+  .blox-resume-skills .w-full.lg\:w-1\/2 {
+    width: 100% !important;
+    background: rgba(148, 163, 184, 0.06);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 1rem;
+    padding: 1.1rem 1rem 1rem;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.04);
+  }
+
+  .blox-resume-skills .mb-5.text-xl.font-bold {
+    margin-bottom: 0.9rem !important;
+    font-size: 1.05rem !important;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #0f172a !important;
+  }
+
+  .blox-resume-skills .skills-content {
+    display: inline-flex;
+    align-items: center;
+    margin: 0.35rem 0.45rem 0.35rem 0;
+    padding: 0.45rem 0.8rem;
+    border: 1px solid rgba(148, 163, 184, 0.35);
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 10px rgba(15, 23, 42, 0.02);
+    line-height: 1.2;
+  }
+
+  .blox-resume-skills .skills-icon {
+    display: none !important;
+  }
+
+  .blox-resume-skills .skills-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: #0f172a !important;
+  }
+
+  html.dark .blox-resume-skills .mb-5.text-xl.font-bold,
+  html.dark .blox-resume-skills .skills-name,
+  html.dark .blox-resume-skills .skills-content {
+    color: #f8fafc !important;
+  }
+
+  html.dark .blox-resume-skills .w-full.lg\:w-1\/2 {
+    background: rgba(15, 23, 42, 0.6);
+    border-color: rgba(148, 163, 184, 0.18);
+    box-shadow: 0 8px 20px rgba(2, 6, 23, 0.18);
+  }
+
+  html.dark .blox-resume-skills .skills-content {
+    background: rgba(15, 23, 42, 0.8);
+    border-color: rgba(148, 163, 184, 0.22);
+  }
+
+  /* Remove the X/Twitter share icon from the page share links */
+  a[href*="twitter.com/intent/tweet"],
+  a[href*="x.com/intent/tweet"],
+  a[href*="twitter.com/share"],
+  a[href*="x.com/share"] {
+    display: none !important;
+  }
+
+  /* Remove article date/read-time metadata from page headers */
+  article .mt-4.mb-16 > div:first-child,
+  article .text-gray-500.dark\:text-gray-300.text-sm.flex.items-center.flex-wrap.gap-y-2,
+  article .text-gray-500.dark\:text-gray-300.text-sm.flex.items-center.flex-wrap.gap-y-2 * {
+    display: none !important;
+  }
+
+  /* Remove the social share icons below content */
+  #share-link-facebook,
+  #share-link-email,
+  #share-link-linkedin,
+  #share-link-whatsapp {
+    display: none !important;
+  }
 </style>

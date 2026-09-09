@@ -4,8 +4,6 @@ date: 2024-10-30
 tags:
   - HTML
   - CSS
-
-featured: true
 ---
 
 A heartfelt tribute page built with HTML and CSS, dedicated to Prophet Hazrat Muhammad (SAW), highlighting his life and teachings.

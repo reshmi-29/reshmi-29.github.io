@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript | Nahida Akther Reshmi</title>
-    <link>http://localhost:60271/tags/javascript/</link>
-      <atom:link href="http://localhost:60271/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/javascript/</link>
+      <atom:link href="https://example.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <description>JavaScript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:60271/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>JavaScript</title>
-      <link>http://localhost:60271/tags/javascript/</link>
+      <link>https://example.com/tags/javascript/</link>
     </image>
     
     <item>
       <title>Tic-Tac-Toe</title>
-      <link>http://localhost:60271/project/tic-tac-toe/</link>
+      <link>https://example.com/project/tic-tac-toe/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:60271/project/tic-tac-toe/</guid>
+      <guid>https://example.com/project/tic-tac-toe/</guid>
       <description>&lt;p&gt;An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript, providing a fun and engaging way to play the classic game.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;

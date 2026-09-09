@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: September 7, 2026 --><html lang="en-us" dir="ltr"
+<!-- Last Published: September 9, 2026 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=60271&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -44,7 +44,7 @@
   <meta name="description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:60271/tags/data-structures/" />
+  <link rel="alternate" hreflang="en-us" href="https://example.com/tags/data-structures/" />
 
   
   
@@ -163,7 +163,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4166356570829923896.png" />
 
-  <link rel="canonical" href="http://localhost:60271/tags/data-structures/" />
+  <link rel="canonical" href="https://example.com/tags/data-structures/" />
 
   
   
@@ -189,10 +189,10 @@
     <meta property="twitter:creator" content="@GetResearchDev" />
   
   <meta property="og:site_name" content="Nahida Akther Reshmi" />
-  <meta property="og:url" content="http://localhost:60271/tags/data-structures/" />
+  <meta property="og:url" content="https://example.com/tags/data-structures/" />
   <meta property="og:title" content="Data Structures | Nahida Akther Reshmi" />
-  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="http://localhost:60271/media/icon_hu7729264130191091259.png" />
-    <meta property="twitter:image" content="http://localhost:60271/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website." /><meta property="og:image" content="https://example.com/media/icon_hu7729264130191091259.png" />
+    <meta property="twitter:image" content="https://example.com/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2024-10-26T00:00:00&#43;00:00" />
@@ -246,25 +246,22 @@
   
   
   
-    
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
-    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -288,23 +285,10 @@
         
       
     
-      
-      
-        
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-        
-        
-      
+  
+  
+  
+  
     
       
       
@@ -472,8 +456,8 @@
   
   <script
     defer
-    src="/js/hugo-blox-en.min.js"
-    integrity=""
+    src="/js/hugo-blox-en.min.8c8ea06bd0420f5067e52fa727b9f92303757322ba4431774153d59a9735eadb.js"
+    integrity="sha256-jI6ga9BCD1Bn5S&#43;nJ7n5IwN1cyK6RDF3QVPVmpc16ts="
   ></script>
 
   
@@ -550,6 +534,98 @@
   html:not(.dark) .grid p,
   html:not(.dark) .grid ul {
     font-weight: 600 !important;
+  }
+
+  .blox-resume-skills {
+    padding-top: 4rem;
+  }
+
+  .blox-resume-skills .flex.flex-col.lg\:flex-row {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    max-width: 1100px;
+    align-items: stretch;
+  }
+
+  .blox-resume-skills .w-full.lg\:w-1\/2 {
+    width: 100% !important;
+    background: rgba(148, 163, 184, 0.06);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 1rem;
+    padding: 1.1rem 1rem 1rem;
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.04);
+  }
+
+  .blox-resume-skills .mb-5.text-xl.font-bold {
+    margin-bottom: 0.9rem !important;
+    font-size: 1.05rem !important;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #0f172a !important;
+  }
+
+  .blox-resume-skills .skills-content {
+    display: inline-flex;
+    align-items: center;
+    margin: 0.35rem 0.45rem 0.35rem 0;
+    padding: 0.45rem 0.8rem;
+    border: 1px solid rgba(148, 163, 184, 0.35);
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 10px rgba(15, 23, 42, 0.02);
+    line-height: 1.2;
+  }
+
+  .blox-resume-skills .skills-icon {
+    display: none !important;
+  }
+
+  .blox-resume-skills .skills-name {
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    color: #0f172a !important;
+  }
+
+  html.dark .blox-resume-skills .mb-5.text-xl.font-bold,
+  html.dark .blox-resume-skills .skills-name,
+  html.dark .blox-resume-skills .skills-content {
+    color: #f8fafc !important;
+  }
+
+  html.dark .blox-resume-skills .w-full.lg\:w-1\/2 {
+    background: rgba(15, 23, 42, 0.6);
+    border-color: rgba(148, 163, 184, 0.18);
+    box-shadow: 0 8px 20px rgba(2, 6, 23, 0.18);
+  }
+
+  html.dark .blox-resume-skills .skills-content {
+    background: rgba(15, 23, 42, 0.8);
+    border-color: rgba(148, 163, 184, 0.22);
+  }
+
+   
+  a[href*="twitter.com/intent/tweet"],
+  a[href*="x.com/intent/tweet"],
+  a[href*="twitter.com/share"],
+  a[href*="x.com/share"] {
+    display: none !important;
+  }
+
+   
+  article .mt-4.mb-16 > div:first-child,
+  article .text-gray-500.dark\:text-gray-300.text-sm.flex.items-center.flex-wrap.gap-y-2,
+  article .text-gray-500.dark\:text-gray-300.text-sm.flex.items-center.flex-wrap.gap-y-2 * {
+    display: none !important;
+  }
+
+   
+  #share-link-facebook,
+  #share-link-email,
+  #share-link-linkedin,
+  #share-link-whatsapp {
+    display: none !important;
   }
 </style>
 
@@ -792,8 +868,7 @@ View the Project GitHub Repository: Access the source code. CodePen Demo: See it
 
     </div>
     <div class="page-footer">
-      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200">
-
+      <footer class="container mx-auto flex flex-col justify-items-center text-sm leading-6 mt-24 mb-4 text-slate-700 dark:text-slate-200" aria-label="Site footer">
   
 
 
@@ -805,77 +880,6 @@ View the Project GitHub Repository: Access the source code. CodePen Demo: See it
 
 
 
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-  
-  
-    
-  
-  
-    
-  
-
-  
-
-  
-  <p class="powered-by text-center">
-    © 2026 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
-  </p>
-  
-
-  <p class="powered-by footer-license-icons">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
-      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
-      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
-      
-        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
-      
-      
-        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
-      
-    </a>
-  </p>
-
-
-
-
-
-  <p class="powered-by text-center">
-    
-    
-    
-      
-      
-      
-      
-      
-      
-      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
-    
-  </p>
 
 </footer>
 

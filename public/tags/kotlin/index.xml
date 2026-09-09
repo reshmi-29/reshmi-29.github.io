@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kotlin | Nahida Akther Reshmi</title>
+    <link>https://example.com/tags/kotlin/</link>
+      <atom:link href="https://example.com/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kotlin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Kotlin</title>
+      <link>https://example.com/tags/kotlin/</link>
+    </image>
+    
+    <item>
+      <title>TravelQuest</title>
+      <link>https://example.com/project/travelquest/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/travelquest/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Built an AI-assisted travel companion app for itinerary generation, budget estimation, and destination discovery, along with a social feed for sharing travel experiences.&lt;/p&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;p&gt;Kotlin, Jetpack Compose, Firebase (Auth, Firestore), Gemini API, Cloudinary&lt;/p&gt;
+&lt;h2 id=&#34;project-link&#34;&gt;Project Link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/reshmi-29/TravelQuest&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daily Expense Tracker</title>
+      <link>https://example.com/project/daily-expense-tracker/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/daily-expense-tracker/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Developed an Android expense-tracking app for recording, editing, and deleting daily expenses, with local data persistence and monthly spending visualization.&lt;/p&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;p&gt;Kotlin, Android Studio, Room Database, RecyclerView, Material Components, MPAndroidChart, Kotlin Coroutines&lt;/p&gt;
+&lt;h2 id=&#34;project-link&#34;&gt;Project Link&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/reshmi-29/Daily-Expense-Tracker-App&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

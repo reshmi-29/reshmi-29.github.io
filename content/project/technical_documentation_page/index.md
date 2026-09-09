@@ -6,8 +6,6 @@ tags:
   - CSS
   - Data Structures
   - Algorithms
-
-featured: true
 ---
 
 A comprehensive technical documentation page built with HTML and CSS, covering the fundamentals and concepts of data structures and algorithms.

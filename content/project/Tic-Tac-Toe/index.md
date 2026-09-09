@@ -5,8 +5,6 @@ tags:
   - HTML
   - CSS
   - JavaScript
-
-featured: true
 ---
 
 An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript, providing a fun and engaging way to play the classic game.
