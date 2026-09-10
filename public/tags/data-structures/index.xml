@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Structures | Nahida Akther Reshmi</title>
-    <link>http://localhost:55555/tags/data-structures/</link>
-      <atom:link href="http://localhost:55555/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/data-structures/</link>
+      <atom:link href="http://localhost:1313/tags/data-structures/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Structures</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55555/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Data Structures</title>
-      <link>http://localhost:55555/tags/data-structures/</link>
+      <link>http://localhost:1313/tags/data-structures/</link>
     </image>
     
     <item>
       <title>Technical Documentation</title>
-      <link>http://localhost:55555/project/technical_documentation_page/</link>
+      <link>http://localhost:1313/project/technical_documentation_page/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/technical_documentation_page/</guid>
+      <guid>http://localhost:1313/project/technical_documentation_page/</guid>
       <description>&lt;p&gt;A comprehensive technical documentation page built with HTML and CSS, covering the fundamentals and concepts of data structures and algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;ul&gt;

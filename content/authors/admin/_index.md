@@ -31,7 +31,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/nahida-akther-reshmi/
   - icon: envelope
-    url: 'mailto:nahida.akther.reshmi29@gmail.com'
+    url: 'mailto:nareshmi1003@gmail.com'
     label: E-mail Me
 
 interests:

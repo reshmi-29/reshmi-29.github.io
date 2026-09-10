@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Django | Nahida Akther Reshmi</title>
-    <link>http://localhost:55555/tags/django/</link>
-      <atom:link href="http://localhost:55555/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/django/</link>
+      <atom:link href="http://localhost:1313/tags/django/index.xml" rel="self" type="application/rss+xml" />
     <description>Django</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55555/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Django</title>
-      <link>http://localhost:55555/tags/django/</link>
+      <link>http://localhost:1313/tags/django/</link>
     </image>
     
     <item>
       <title>Art-Gallery</title>
-      <link>http://localhost:55555/project/art-gallery/</link>
+      <link>http://localhost:1313/project/art-gallery/</link>
       <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/art-gallery/</guid>
+      <guid>http://localhost:1313/project/art-gallery/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Developed a full-featured art e-commerce platform with role-based access for buyers, sellers, and administrators. The system includes artwork listing and approval workflows, cart-to-checkout order processing, and review, messaging, and notification functionality.&lt;/p&gt;
 &lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;

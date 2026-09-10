@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSS | Nahida Akther Reshmi</title>
-    <link>http://localhost:55555/tags/css/</link>
-      <atom:link href="http://localhost:55555/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/css/</link>
+      <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <description>CSS</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:55555/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>CSS</title>
-      <link>http://localhost:55555/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
     </image>
     
     <item>
       <title>Tribute Page</title>
-      <link>http://localhost:55555/project/tribute-page/</link>
+      <link>http://localhost:1313/project/tribute-page/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/tribute-page/</guid>
+      <guid>http://localhost:1313/project/tribute-page/</guid>
       <description>&lt;p&gt;A heartfelt tribute page built with HTML and CSS, dedicated to Prophet Hazrat Muhammad (SAW), highlighting his life and teachings.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
@@ -36,9 +36,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Tic-Tac-Toe</title>
-      <link>http://localhost:55555/project/tic-tac-toe/</link>
+      <link>http://localhost:1313/project/tic-tac-toe/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/tic-tac-toe/</guid>
+      <guid>http://localhost:1313/project/tic-tac-toe/</guid>
       <description>&lt;p&gt;An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript, providing a fun and engaging way to play the classic game.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
@@ -58,9 +58,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Technical Documentation</title>
-      <link>http://localhost:55555/project/technical_documentation_page/</link>
+      <link>http://localhost:1313/project/technical_documentation_page/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/technical_documentation_page/</guid>
+      <guid>http://localhost:1313/project/technical_documentation_page/</guid>
       <description>&lt;p&gt;A comprehensive technical documentation page built with HTML and CSS, covering the fundamentals and concepts of data structures and algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;ul&gt;
@@ -73,9 +73,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Product Landing Page</title>
-      <link>http://localhost:55555/project/product_landing_page/</link>
+      <link>http://localhost:1313/project/product_landing_page/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/product_landing_page/</guid>
+      <guid>http://localhost:1313/project/product_landing_page/</guid>
       <description>&lt;p&gt;An engaging HTML and CSS project focused on showcasing travel photography in a captivating product landing page design.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
@@ -95,9 +95,9 @@ See the project in action on CodePen: &lt;a href=&#34;https://codepen.io/Nahida-
     
     <item>
       <title>Survey Form</title>
-      <link>http://localhost:55555/project/survey_form/</link>
+      <link>http://localhost:1313/project/survey_form/</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55555/project/survey_form/</guid>
+      <guid>http://localhost:1313/project/survey_form/</guid>
       <description>&lt;p&gt;A user-friendly survey form project created with HTML and CSS, designed to gather feedback and preferences on traveling experiences.&lt;/p&gt;
 &lt;h2 id=&#34;view-the-project&#34;&gt;View the Project&lt;/h2&gt;
 &lt;p&gt;Choose how you want to explore the project:&lt;/p&gt;
